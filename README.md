@@ -1,1 +1,1 @@
-https://github.io/calculator.github.io
+https://Kjamm.github.io/calculator.github.io
