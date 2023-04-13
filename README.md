@@ -1,1 +1,1 @@
-calculator.github.o
+https://github.io/calculator.github.io
